@@ -17,9 +17,10 @@
 |Table|Done|
 
 ## Screenshots
-![avatar](‎iCloud Drive⁩/⁨Desktop⁩/CSCI3250+3251/1.png)
-![avatar](‎iCloud Drive⁩/⁨Desktop⁩/CSCI3250+3251/2.png)
-![avatar](‎iCloud Drive⁩/⁨Desktop⁩/CSCI3250+32513/3.png)
+![avatar](https://github.com/csci3250-2019/student-1155107827/blob/master/1.png)
+![avatar](https://github.com/csci3250-2019/student-1155107827/blob/master/2.png)
+![avatar](https://github.com/csci3250-2019/student-1155107827/blob/master/3.png)
+
 *end*
 
 
