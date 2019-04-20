@@ -2,10 +2,10 @@
 **zero experience**
 
 ## Programming languages
-- [ x ]C
-- [ x ]Java
-- [ x ]C++
-- [ ]Python
+- [x] C
+- [x] Java
+- [x] C++
+- [ ] Python
 
 ## Table
 | Style element |  Status  |
